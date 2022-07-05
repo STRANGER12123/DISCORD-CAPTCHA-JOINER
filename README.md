@@ -8,15 +8,15 @@
 7. Input The amount of threads (The higher the faster)
 8. Then you're done, your tokens should Start Joining the dedicated server
 # Contacts
-* Discord - @HazarD </>#8161
-* Server - https://discord.gg/rzop
+* Discord - VishaL#0491 , ! HazarD </>#8161
+* Server - https://discord.gg/rzop , https://discord.gg/lordsop
 * If you come across any problems, just create an issue with a screenshot and I'll try to get it fixed ASAP
 * Buy Api Key From Here :- https://anti-captcha.com/ , 
                          - https://capmonster.cloud/
 # Features
 * Server Joiner - ✅
 * Make The requests even more real. Even lower chance of getting captcha - ✅
-![](./Picture/captcha.png)
+![](./screenshot.png)
 # Common Issues
 *  Error Code: "'Response' object is not subscriptable" This is either due to your tokens being invalid/locked or your Proxies being dead. This is self explanatory and is not a proper issue with my code, but with the resources you are providing to the tool. Please come to me with an actual issue that deems the joiner of **Not** working condition
 
